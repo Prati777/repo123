@@ -2,7 +2,7 @@ package filedemo;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+//code for file splitting
 class Splitter
 {
 	public static void main(String[] args) throws IOException
